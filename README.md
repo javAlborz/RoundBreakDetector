@@ -8,6 +8,9 @@ This script identifies the start and end of a round in boxing video footage.
 - **Frame Transformation**: Applies image transformations (resize, center crop, and normalization) using the `albumentations` library.
 - **Output Video**: Generates an output video with frames labeled with the detected action.
 
+- ![Action Recognition Demonstration](./assets/joyce_gif.gif)
+
+
 ## Requirements:
 - Python 3.x
 - torch
